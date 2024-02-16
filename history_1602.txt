@@ -1,0 +1,7 @@
+   0 date > my_file.txt
+   1 df -h >> my_file.txt
+   2 history >> my_file.txt
+   3 cat /proc/cpuinfo
+   4 cat /proc/cpuinfo | head -2 |tail -1 >> my_file.txt
+   5 vi my_file.txt
+   6 history > history_1602.txt
